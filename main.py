@@ -1,3 +1,5 @@
+# 8/6/2022 - Script utility for openning multiple subreddits links without clicking or searching
+# Author: Maximiliano Texeira (Max - CodingReaction)
 import webbrowser
 import sys
 import time
